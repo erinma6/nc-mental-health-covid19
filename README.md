@@ -2,9 +2,6 @@
 
 This repository is part of the CX100 Carolina Across Data Hackathon, which our team won. We were awarded $500 for making the best infographic among 17 undergraduate teams and 8 graduate teams. 
 
-<img width="719" alt="Screen Shot 2023-04-19 at 3 03 44 PM" src="https://user-images.githubusercontent.com/97535654/233174976-e145c05b-c6b1-411b-981d-f90e41987025.png">
-
-<img width="474" alt="Screen Shot 2023-04-19 at 3 03 51 PM" src="https://user-images.githubusercontent.com/97535654/233175083-dd796438-2108-4d46-a8c3-b7f8cea6d646.png">
 
 ## Objective of Infographic
 
